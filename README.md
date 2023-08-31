@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TDGrovin
 - 👀 I’m interested in Software Development and App Development
 - My other interest are in the subjects of history, astronomy, physics, chemistry, mathematics
-- 🌱 I’m currently learning JAVA, HTML, PHP, JavaScript
+- 🌱 I’m currently learning JAVA, C++, Python and Kotlin
 - 📫 How to reach me:-
 - Instagram Profile - https://www.instagram.com/grovin.singh/
 - Youtube Account - https://www.youtube.com/channel/UCtbiwgDLFCSbxy50alldBew
