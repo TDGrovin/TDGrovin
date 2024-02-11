@@ -4,7 +4,8 @@
 - 🌱 I’m currently learning JAVA, C++, Python and Kotlin
 - 📫 How to reach me:-
 - Instagram Profile - https://www.instagram.com/grovin.singh/
-- Youtube Account - https://www.youtube.com/channel/UCtbiwgDLFCSbxy50alldBew
+- Twitter - https://twitter.com/tdgrovin
+- LinkedIn - https://www.linkedin.com/in/grovin-singh-atwal/
 - E-mail Address - tdgrovin@gmail.com
 
 <!---
